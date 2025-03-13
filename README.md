@@ -1,2 +1,6 @@
 # testingmoregithub-LwaziM07
-testingmoregithub-LwaziM07 created by GitHub Classroom
+
+I did A, B, C and D
+
+### I am awesome!
+## Y'ALL SUCK!!!!!!
