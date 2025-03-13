@@ -23,7 +23,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         val textDisplay = findViewById<TextView>(R.id.textDisplay)
-        val name = "Lwazi"
+        val name = "L"
 
         textDisplay.text = name
 
